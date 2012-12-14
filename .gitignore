@@ -1,0 +1,11 @@
+.idea
+.lnk
+.svn
+.tmp
+packages
+local
+.kansorc
+scripts
+data
+node_modules
+
